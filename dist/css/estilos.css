@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cont{
    
   
@@ -5,4 +6,19 @@
 }
 .imagen{
     width: 100%;
+=======
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.con{
+    display: flex;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+>>>>>>> 4e0b1ae2fe4a19c76d361b1b817612787e81f943
 }

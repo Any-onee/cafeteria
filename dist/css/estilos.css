@@ -1,24 +1,24 @@
-
 .cont{
-   
+    margin: 0px;
+    padding: 0%;
+    
+}
+img{
+    
+    width: 100%;
+    height: 275px;
   
 
 }
-.imagen{
-    width: 100%;
-    height: 230px;
-}
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-.con{
-    display: flex;
-}
-.logo{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    object-fit: cover;
+.texto{
+    position: absolute;
+    top: 149px;
+    left: -227px;
+    transform: translateY(-50%);
+    padding: 36px 310px;
+    font-size: 17px; 
+    color: rgb(241, 186, 104);
+    font-family: 'Poppins';
+    font-style:oblique;
+
 }

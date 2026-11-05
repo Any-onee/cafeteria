@@ -22,3 +22,22 @@ img{
     font-style:oblique;
 
 }
+.not{
+    display: flex;
+    width: 100%;
+    height: 200px;
+   
+
+}
+.texto2{
+    font-size: 17px; 
+    color: rgb(241, 186, 104);
+    font-family: 'Poppins';
+    font-style:oblique;
+    margin-left: 28px;
+    margin-right: 13px;
+}
+.img2{
+     width: 35%;
+     height: 176px;
+}

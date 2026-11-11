@@ -12,32 +12,53 @@ img{
 }
 .texto{
     position: absolute;
-    top: 149px;
+    top: 295px;
     left: -227px;
     transform: translateY(-50%);
     padding: 36px 310px;
     font-size: 17px; 
-    color: rgb(241, 186, 104);
+    color: rgb(169, 140, 117);
     font-family: 'Poppins';
     font-style:oblique;
 
 }
-.not{
+.not {
     display: flex;
     width: 100%;
     height: 200px;
-   
-
 }
-.texto2{
-    font-size: 17px; 
+
+.texto2 {
+    font-size: 17px;
     color: rgb(241, 186, 104);
     font-family: 'Poppins';
-    font-style:oblique;
+    font-style: oblique;
     margin-left: 28px;
     margin-right: 13px;
 }
-.img2{
-     width: 35%;
-     height: 176px;
+
+.img2 {
+    width: 35%;
+    height: 176px;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.con {
+    display: flex;
+    background-color: rgb(247, 235, 223);
+}
+
+.tex {
+    margin-left: 30px;
+    margin-top: 55px;
+    color: rgb(169, 140, 117);
+    font-size: 30px;
+    padding-left: 30px;
+    text-align: right;
 }

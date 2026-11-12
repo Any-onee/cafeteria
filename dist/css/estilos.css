@@ -94,3 +94,54 @@ img{
     margin-right: 13px;
     margin-top: 35px;
 }
+.pie{
+    display: flex;
+    width: 50px;
+    height: 50px;
+    border-radius: 20%;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+
+.texto-comentario {
+    padding: 10px 20px;
+    color: rgb(247, 235, 223);
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-size: 16px;
+     border: 2px solid rgb(169, 140, 117); 
+}
+
+.boton-comentar {
+    padding: 10px 20px;
+    color:  rgb(247, 235, 223);
+    background-color: transparent;
+    border: none;
+    border: 2px solid rgb(169, 140, 117); 
+    cursor: pointer;
+    font-size: 16px;
+}
+.logos{
+   width: 33.33%;
+    padding-left: 166px;
+    display: flex;
+    padding-top: 17px;
+}
+.boton{
+     width: 33.34%;
+    display: flex;
+    padding-top: 17px;
+    padding-left: 85px;
+    padding-bottom: 17px;
+}
+.loc{
+      width: 33.33%;
+    padding-left: 12px;
+}
+.pagina{
+    width: 100%;
+     display: flex;
+    background-color: rgb(100, 62, 43);
+}
